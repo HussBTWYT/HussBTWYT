@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### How are you?
+### 🌱 I’m currently learning: JavaScript
+### 👯 I’m looking to collaborate on: Python Web Development Projects including the Flask Framework
+### 💬 Ask me about: Python, JavaScript, HTML, CSS Styling, Flask Framework (Python)
+### 😄 Pronouns: he/him
+### ⚡ Fun fact: Avocados are not vegetables and are actually fruits! Even I didn't know that 😂
