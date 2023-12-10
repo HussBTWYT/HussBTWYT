@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ### 💬 Ask me about: Python, JavaScript, HTML, CSS Styling, Flask Framework (Python)
 ### 😄 Pronouns: he/him
 ### ⚡ Fun fact: Avocados are not vegetables and are actually fruits! Even I didn't know that 😂
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HussBTWYT&layout=compact&langs_count=2&hide=html,css)](https://github.com/HussBTWYT)
