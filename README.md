@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 I’m currently learning: JavaScript
+### 🌱 I’m currently learning: Machine Learning & Data Analysis
 ### 👯 I’m looking to collaborate on: Python Web Development Projects including the Flask Framework
 ### 💬 Ask me about: Python, JavaScript, HTML, CSS Styling, Flask Framework (Python)
 ### 😄 Pronouns: he/him
